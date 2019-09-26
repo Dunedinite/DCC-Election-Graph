@@ -133,6 +133,10 @@
 					"votes" : 2086
 				},
 				{
+					"key" : "re",
+					"votes" : 1734
+				},
+				{
 					"key" : "sb",
 					"votes" : 945
 				},
@@ -162,32 +166,56 @@
 			"name" : "Count 2",
 			"totals" : [
 				{
-					"key" : "fb",
-					"votes" : 564660
+					"key" : "dc",
+					"votes" : 10876
 				},
 				{
-					"key" : "fr",
-					"votes" : 584442
+					"key" : "lv",
+					"votes" : 7143
 				},
 				{
-					"key" : "rp",
-					"votes" : 134561
+					"key" : "bt",
+					"votes" : 5660
 				},
 				{
-					"key" : "bw",
-					"votes" : 98595
+					"key" : "aw",
+					"votes" : 4679
+				},
+				{
+					"key" : "ah",
+					"votes" : 3142
+				},
+				{
+					"key" : "jo",
+					"votes" : 2595
+				},
+				{
+					"key" : "cs",
+					"votes" : 2138
+				},
+				{
+					"key" : "re",
+					"votes" : 1801
+				},
+				{
+					"key" : "sb",
+					"votes" : 973
+				},
+				{
+					"key" : "ga",
+					"votes" : 762
 				},
 				{
 					"key" : "inf",
-					"votes" : 149747
+					"votes" : 76
 				},
 				{
 					"key" : "inv",
-					"votes" : 3372
+					"votes" : 683
 				},
 				{
 					"key" : "nt",
-					"votes" : 11357
+					"votes" : 90
 				}
 			]
 		},
@@ -195,28 +223,52 @@
 			"name" : "Count 3",
 			"totals" : [
 				{
-					"key" : "fb",
-					"votes" : 613159
+					"key" : "dc",
+					"votes" : 10948
 				},
 				{
-					"key" : "fr",
-					"votes" : 607070
+					"key" : "lv",
+					"votes" : 7219
 				},
 				{
-					"key" : "rp",
-					"votes" : 149321
+					"key" : "bt",
+					"votes" : 5687
+				},
+				{
+					"key" : "aw",
+					"votes" : 4711
+				},
+				{
+					"key" : "ah",
+					"votes" : 3327
+				},
+				{
+					"key" : "jo",
+					"votes" : 2647
+				},
+				{
+					"key" : "cs",
+					"votes" : 2181
+				},
+				{
+					"key" : "re",
+					"votes" : 1866
+				},
+				{
+					"key" : "sb",
+					"votes" : 1057
 				},
 				{
 					"key" : "inf",
-					"votes" : 149747
+					"votes" : 76
 				},
 				{
 					"key" : "inv",
-					"votes" : 3372
+					"votes" : 683
 				},
 				{
 					"key" : "nt",
-					"votes" : 24065
+					"votes" : 216
 				}
 			]
 		},
@@ -224,24 +276,258 @@
 			"name" : "Count 4",
 			"totals" :[
 				{
-					"key" : "fb",
-					"votes" : 670790
+					"key" : "dc",
+					"votes" : 11073
 				},
 				{
-					"key" : "fr",
-					"votes" : 655466
+					"key" : "lv",
+					"votes" : 7306
+				},
+				{
+					"key" : "bt",
+					"votes" : 5736
+				},
+				{
+					"key" : "aw",
+					"votes" : 4758
+				},
+				{
+					"key" : "ah",
+					"votes" : 3578
+				},
+				{
+					"key" : "jo",
+					"votes" : 2726
+				},
+				{
+					"key" : "cs",
+					"votes" : 2227
+				},
+				{
+					"key" : "re",
+					"votes" : 2082
 				},
 				{
 					"key" : "inf",
-					"votes" : 149747
+					"votes" : 76
 				},
 				{
 					"key" : "inv",
-					"votes" : 3372
+					"votes" : 683
 				},
 				{
 					"key" : "nt",
-					"votes" : 67359
+					"votes" : 373
+				}
+			]
+		}
+		{
+			"name" : "Count 5",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 11363
+				},
+				{
+					"key" : "lv",
+					"votes" : 7547
+				},
+				{
+					"key" : "bt",
+					"votes" : 5886
+				},
+				{
+					"key" : "aw",
+					"votes" : 4958
+				},
+				{
+					"key" : "ah",
+					"votes" : 3867
+				},
+				{
+					"key" : "jo",
+					"votes" : 2935
+				},
+				{
+					"key" : "cs",
+					"votes" : 2428
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 875
+				}
+			]
+		}
+		{
+			"name" : "Count 6",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 11641
+				},
+				{
+					"key" : "lv",
+					"votes" : 7876
+				},
+				{
+					"key" : "bt",
+					"votes" : 6321
+				},
+				{
+					"key" : "aw",
+					"votes" : 5269
+				},
+				{
+					"key" : "ah",
+					"votes" : 4029
+				},
+				{
+					"key" : "jo",
+					"votes" : 3279
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 1444
+				}
+			]
+		}
+		{
+			"name" : "Count 7",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 12144
+				},
+				{
+					"key" : "lv",
+					"votes" : 8304
+				},
+				{
+					"key" : "bt",
+					"votes" : 7139
+				},
+				{
+					"key" : "aw",
+					"votes" : 5779
+				},
+				{
+					"key" : "ah",
+					"votes" : 4343
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 2150
+				}
+			]
+		}
+		{
+			"name" : "Count 8",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 13784
+				},
+				{
+					"key" : "lv",
+					"votes" : 8856
+				},
+				{
+					"key" : "bt",
+					"votes" : 7498
+				},
+				{
+					"key" : "aw",
+					"votes" : 6225
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 3496
+				}
+			]
+		}
+		{
+			"name" : "Count 9",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 15005
+				},
+				{
+					"key" : "lv",
+					"votes" : 9934
+				},
+				{
+					"key" : "bt",
+					"votes" : 9391
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 5529
+				}
+			]
+		}
+		{
+			"name" : "Count 10",
+			"totals" :[
+				{
+					"key" : "dc",
+					"votes" : 17441
+				},
+				{
+					"key" : "lv",
+					"votes" : 11938
+				},
+				{
+					"key" : "inf",
+					"votes" : 76
+				},
+				{
+					"key" : "inv",
+					"votes" : 683
+				},
+				{
+					"key" : "nt",
+					"votes" : 10480
 				}
 			]
 		}
