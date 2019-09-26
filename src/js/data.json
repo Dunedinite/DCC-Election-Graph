@@ -1,36 +1,78 @@
 {
 	"choices" : [
 		 {
-			"key" : "fb",
-			"name" : "Silver Fern (Black, White and Blue)",
+			"key" : "dc",
+			"name" : "David Cull",
 			"img" : "fern-bb.png",
 			"color" : "#109ae8",
 			"pickable" : true
 		},
 		 {
-			"key" : "fr",
-			"name" : "Silver Fern (Red, White and Blue) ",
+			"key" : "lv",
+			"name" : "Lee Vandervis",
 			"img" : "fern-rb.png",
 			"color" : "#5a108e",
 			"pickable" : true
 		},
 		 {
-			"key" : "rp",
-			"name" : "Red Peak",
+			"key" : "bt",
+			"name" : "Barry Timmings",
 			"img" : "red-peak.png",
 			"color" : "#DF005B",
 			"pickable" : true
 		},
 		 {
-			"key" : "bw",
-			"name" : "Silver Fern (Black and White)",
+			"key" : "aw",
+			"name" : "Andrew Whiley",
 			"img" : "fern-bw.png",
 			"color" : "#ffcf00",
 			"pickable" : true
 		},
 		 {
-			"key" : "kr",
-			"name" : "Koru",
+			"key" : "ah",
+			"name" : "Aaron Hawkins",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "jo",
+			"name" : "Jim O'Malley",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "cs",
+			"name" : "Conrad Stedman",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "re",
+			"name" : "Rachel Elder",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "sb",
+			"name" : "Scout Barbour-Evans",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "ag",
+			"name" : "Abe Gray",
+			"img" : "koru.png",
+			"color" : "#6bbd22",
+			"pickable" : true
+		},
+		 {
+			"key" : "ab",
+			"name" : "Athol Bayne",
 			"img" : "koru.png",
 			"color" : "#6bbd22",
 			"pickable" : true
@@ -63,32 +105,52 @@
 			"name" : "Count 1",
 			"totals" : [
 				{
-					"key" : "fb",
-					"votes" : 559587
+					"key" : "dc",
+					"votes" : 10816
 				},
 				{
-					"key" : "fr",
-					"votes" : 580241
+					"key" : "lv",
+					"votes" : 7063
 				},
 				{
-					"key" : "rp",
-					"votes" : 122152
+					"key" : "bt",
+					"votes" : 5613
 				},
 				{
-					"key" : "bw",
-					"votes" : 78925
+					"key" : "aw",
+					"votes" : 4647
 				},
 				{
-					"key" : "kr",
-					"votes" : 52710
+					"key" : "ah",
+					"votes" : 3108
+				},
+				{
+					"key" : "jo",
+					"votes" : 2501
+				},
+				{
+					"key" : "cs",
+					"votes" : 2086
+				},
+				{
+					"key" : "sb",
+					"votes" : 945
+				},
+				{
+					"key" : "ga",
+					"votes" : 734
+				},
+				{
+					"key" : "ab",
+					"votes" : 612
 				},
 				{
 					"key" : "inf",
-					"votes" : 149747
+					"votes" : 76
 				},
 				{
 					"key" : "inv",
-					"votes" : 3372
+					"votes" : 683
 				},
 				{
 					"key" : "nt",
